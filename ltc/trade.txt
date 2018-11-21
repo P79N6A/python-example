@@ -1,0 +1,265 @@
+
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+start 0
+now: 2017-07-23 17:39:10
+onGetOrders
+onGetAccountInfo
+available_ltc,available_cny,frozen_ltc,frozen_cny 0.0000 466.37 0.0000 0.00
+available_cny_display*0.98 457.0426
+count if buy or sell,switch 1
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+start 0
+now: 2017-07-23 17:41:40
+onGetOrders
+onGetAccountInfo
+available_ltc,available_cny,frozen_ltc,frozen_cny 0.0000 466.37 0.0000 0.00
+available_cny_display*0.98 457.0426
+count if buy or sell,switch 1
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+Python 2.7.13 (default, Dec 18 2016, 07:03:34) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)] on darwin
+u'0.0000'
+u'0.0000'
+0
+0
+u'0.0000'
+now: 2017-07-23 17:43:39
+onGetOrders
+onGetAccountInfo
+available_ltc,available_cny,frozen_ltc,frozen_cny 0.0000 466.37 0.0000 0.00
+available_cny_display*0.98 457.0426
+count if buy or sell,switch 0
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+now: 2017-07-23 17:44:32
+onGetOrders
+onGetAccountInfo
+available_ltc,available_cny,frozen_ltc,frozen_cny 0.0000 466.37 0.0000 0.00
+available_cny_display*0.98 461.7063
+count if buy or sell,switch 0
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+exception: descriptor 'close' of 'file' object needs an argument
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:43
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:45
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:46
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:48
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:50
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:52
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:54
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:56
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-26 23:59:58
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-27 00:00:00
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
+while for: 2017-07-27 00:00:02
+onGetOrders
+order []
+onGetAccountInfo
+data: {u'available_btc_display': u'0.0000', u'loan_cny_display': u'0.00', 'ok': True, u'frozen_cny_display': u'0.00', u'available_ltc_display': u'0.0000', u'loan_btc_display': u'0.0000', u'frozen_btc_display': u'0.0000', u'net_asset': u'466.37', u'loan_ltc_display': u'0.0000', u'frozen_ltc_display': u'0.0000', u'available_cny_display': u'466.37', u'total': u'466.37'}
+ltc 0.0000
